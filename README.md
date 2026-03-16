@@ -2,7 +2,6 @@
 
 This repository contains an end-to-end Python replication of the academic paper **"Semantic Trading: Agentic AI for Clustering and Relationship Discovery in Prediction Markets"** (Capponi et al.). 
 
-This was conducted as a quantitative learning project to explore data infrastructure workarounds, LLM stochastic variance, and market microstructure analysis in crypto-based prediction markets.
 
 ## 🛠️ System Pipeline
 
