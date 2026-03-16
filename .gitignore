@@ -1,0 +1,39 @@
+# -----------------------------
+# Data & Database Files
+# -----------------------------
+data/
+*.csv
+*.parquet
+*.db
+*.duckdb
+*.sqlite
+
+# -----------------------------
+# Vendor & Environments
+# -----------------------------
+# We track the vendor folder, but we IGNORE any rogue data or caches inside it
+vendor/**/data/
+vendor/**/__pycache__/
+vendor/**/*.parquet
+vendor/**/*.csv
+
+# Python environments
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+
+# -----------------------------
+# Jupyter & IDEs
+# -----------------------------
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# -----------------------------
+# OS Generated
+# -----------------------------
+.DS_Store
+Thumbs.db

@@ -1,0 +1,29 @@
+{
+  "trades": {
+    "market": "",
+    "offset": 0,
+    "filter_amount": 0,
+    "pending_markets": []
+  },
+  "prices": {
+    "token_id": "",
+    "start_ts": 1747940998,
+    "end_ts": 0,
+    "pending_tokens": [],
+    "completed": false
+  },
+  "leaderboard": {
+    "current_category_index": 0,
+    "current_time_period_index": 0,
+    "current_offset": 0,
+    "completed": false
+  },
+  "markets": {
+    "next_cursor": "",
+    "completed": false
+  },
+  "gamma_markets": {
+    "completed": false
+  },
+  "last_updated": "2026-01-30T14:38:52.666269"
+}
