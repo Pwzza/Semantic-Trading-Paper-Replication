@@ -93,7 +93,7 @@ polymarket-project/
     └── PolyMarketAnalytics/         # Modified data fetcher module
 ```
 
-🙌 Acknowledgements & Credits
+## 🙌 Acknowledgements & Credits
 Original Research: Agostino Capponi et al., Semantic Trading: Agentic AI for Clustering and Relationship Discovery in Prediction Markets. (Included in the /paper directory).
 
 Data Infrastructure: To acquire high-granularity tick and OHLCV data without exceeding API limits, this project leverages the amazing open-source multi-threaded architecture by Nav1212 (https://github.com/Nav1212/PolyMarketAnalytics.git).
