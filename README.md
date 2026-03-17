@@ -81,7 +81,7 @@ The replication correctly identified **June 2025** as the peak performance month
 ```text
 polymarket-project/
 ├── notebooks/
-│   ├── summary.ipynb       # # Main codebase and execution logic
+│   ├── summary.ipynb       # Main codebase and execution logic
 ├── 2512.02436v1.pdf        # The original reference paper
 └── vendor/
     └── PolyMarketAnalytics/         # Modified data fetcher module
